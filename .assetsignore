@@ -1,0 +1,5 @@
+README.md
+.commandcode/
+.git/
+.gitignore
+wrangler.jsonc
